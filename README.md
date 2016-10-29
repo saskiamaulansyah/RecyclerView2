@@ -1,8 +1,7 @@
-# RecyclerView1
+#RecyclerView2
 
 #Screenshot apk
-![screenshot 43](https://github.com/saskiamaulansyah/RecyclerView1/blob/master/Screenshot_20161029-222725.png)
-![screenshot 44](https://github.com/saskiamaulansyah/RecyclerView1/blob/master/Screenshot_20161029-222848.png)
+![screenshot 43](https://github.com/saskiamaulansyah/RecyclerView2/blob/master/Screenshot_20161029-234311.png)
 
 #identitas :
 <ol>
